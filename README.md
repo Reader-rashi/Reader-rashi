@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm Rashi Gupta👋
 
-<!--
-**Reader-rashi/Reader-rashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BCA student. I'm passionate about coding and reading books and I love working on my skills.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning Java.
+- 💬 Ask me about books.
+- 📫 How to reach me: guptarashi297@gmail.com
+
+
+## 📫 Contact Me
+
+- LinkedIn: [https://www.linkedin.com/in/rashi-gupta-53b94a270/]
+
+Feel free to reach out and connect with me!
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reader-rashi&show_icons=true)
+
+
+Thanks for visiting my profile! 😊
